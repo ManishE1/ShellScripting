@@ -1,8 +1,7 @@
 #!/bin/bash
 
 MESSAGE=Welcome to Devops
-
-echo $MESSAGE
+echo ${MESSAGE}
 echo ${MESSAGE}
 
 
