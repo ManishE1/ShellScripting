@@ -15,3 +15,5 @@ echo "today date is $date"
 Add=$((1+2+3+4+5))
 
 echo "Total sum is $Add"
+
+echo "welcome to $course program"
