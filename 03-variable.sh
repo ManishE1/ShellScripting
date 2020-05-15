@@ -1,8 +1,8 @@
 #!/bin/bash
 
-Name=Hello Raju
+Name=HelloRaju
 
-echo "${Name}"
+echo ${Name}
 
 
 banana=20
