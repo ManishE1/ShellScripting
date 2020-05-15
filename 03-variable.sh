@@ -13,4 +13,4 @@ echo "today date is $date"
 
 Add=$((1+2+3+4+5))
 
-echo "total sum is $add"
+echo "Total sum is $add"
