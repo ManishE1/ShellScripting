@@ -1,7 +1,9 @@
 #!/bin/bash
 
-MESSAGE=Welcome to Devops
-echo "${MESSAGE}"
+Name=Hello Raju
+# shellcheck disable=SC2154
+# shellcheck disable=SC2086
+echo "${Name}"
 
 
 banana=20
